@@ -2,10 +2,13 @@
     "name": "afxsoft/phpimagecache",
     "version" : "2.0",
     "description": "Fork of https://github.com/nielse63/php-image-cache using psr-4 autoload and removing unused stuff",
+    "keywords": ["cache","caching","php cache","image cache", "slim 3"],
     "authors": [
         {
             "name": "Afdal",
-            "email": "afxsoft@gmail.com"
+            "email": "afxsoft@gmail.com",
+            "homepage": "http://Afdal.fr",
+            "role": "Developer"
         }
     ],
     "require": {
