@@ -9,13 +9,13 @@ Install <a href="http://getcomposer.org" target="_blank">Composer</a> by opening
 Installation
 Execute this bash command from your project’s root directory:
 ```bash
-composer require afxsoft/phpimagecache
+composer require afxsoft/phpimagecached
 ```
 Basic Usage
 The class is pretty small, and very basic. First, include the file and initialize the class:
 ```bash
 require_once 'ImageCache.php';
-$imagecache = new ImageCache();
+$imagecache = new Afxsoft\App\ImageCache();
 ```
 Optional: Set the location of the directory to house your cached images:
 ```bash

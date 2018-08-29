@@ -1,5 +1,5 @@
 {
-    "name": "afxsoft/phpimagecache",
+    "name": "afxsoft/phpimagecached",
     "version" : "2.0",
     "description": "Fork of https://github.com/nielse63/php-image-cache using psr-4 autoload and removing unused stuff",
     "authors": [
